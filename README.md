@@ -27,4 +27,4 @@ Here are the Go Fish rules:
 - After all 13 books have been played, the player with the most points wins.
 
 
-![Go Fish Image](/game.png)
+![Go Fish Image](game.png)
