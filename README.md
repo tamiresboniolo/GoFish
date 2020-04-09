@@ -8,7 +8,7 @@ Here is the game online:  https://cardgames.io/gofish/.
 
 Here are the Go Fish rules:
 
-- - At the start of each game, the deck is shuffled and cut.  Then 5 cards are dealt out to each of the four players.  Each player keeps their cards in their hand and can look at them.
+- At the start of each game, the deck is shuffled and cut.  Then 5 cards are dealt out to each of the four players.  Each player keeps their cards in their hand and can look at them.
 
 - If any player has a "book" (also called a "trick") in their hand - i.e., 4 cards of the same rank, they "play" that book by placing those 4 cards in front of them, face-up so other players can see them.  Each book played is worth one point.  The object of the game is to get more points than any of your opponents.
 
