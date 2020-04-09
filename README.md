@@ -2,7 +2,7 @@
 
 Using a deck of cards to simulate a game of Go Fish between several computer players!
 
-Here is the game online:  https://cardgames.io/gofish/.
+*Here is the game online:  https://cardgames.io/gofish/.*
 
 
 
@@ -27,4 +27,4 @@ Here are the Go Fish rules:
 - After all 13 books have been played, the player with the most points wins.
 
 
-
+![Go Fish Image](/images/game.png)
