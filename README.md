@@ -23,3 +23,6 @@ If the-player-who-was-asked does not have any cards of that rank, they yell "GO 
 Players continue taking turns until all books are played.  If a player runs out of cards and the deck is empty, that player no longer gets a turn.
 
 After all 13 books have been played, the player with the most points wins.
+
+
+
